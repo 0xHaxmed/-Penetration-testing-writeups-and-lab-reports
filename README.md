@@ -103,7 +103,10 @@ Every lab report is documented with:
 
 ---
 
-## 👥 Authors & Acknowledgments
+## 👥 Authors & Contributors
 
-* **Mohamed Elsayed Mohamed** — Cybersecurity Specialist & Penetration Tester
-* **Ebrahim Hesham** — Cybersecurity Analyst & Department Colleague (Helwan International Technological University)
+* **Mohamed Hesham Mohamed**
+* **Mohamed Ibrahim Mohamed**
+* **Mohamed Elsayed Mohamed**
+* **Ebrahim Hesham Awad**
+* **Youssef Ayman Mohamed**
